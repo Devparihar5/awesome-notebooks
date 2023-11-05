@@ -483,6 +483,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## Google Drive
 * [Add properties to file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Add_properties_to_file.ipynb)
 * [Create folder](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Create_folder.ipynb)
+* [Create shareable public link](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Create_shareable_public_link.ipynb)
 * [Download video file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Download_video_file.ipynb)
 * [List folder](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_List_folder.ipynb)
 * [Move file](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Google%20Drive/Google_Drive_Move_file.ipynb)
@@ -623,6 +624,11 @@ We are committed to sharing templates and giving shout outs to the contributors 
 ## IUCN
 * [Extinct species](https://github.com/jupyter-naas/awesome-notebooks/blob/master/IUCN/IUCN_Extinct_species.ipynb)
 
+## ImagineAPI.dev
+* [Generate and Display Image](https://github.com/jupyter-naas/awesome-notebooks/blob/master/ImagineAPI.dev/ImagineAPI.dev_Create_Image.ipynb)
+* [Get Image](https://github.com/jupyter-naas/awesome-notebooks/blob/master/ImagineAPI.dev/ImagineAPI.dev_Get_Image.ipynb)
+* [List Images](https://github.com/jupyter-naas/awesome-notebooks/blob/master/ImagineAPI.dev/ImagineAPI.dev_List_Images.ipynb)
+
 ## Insee
 * [Download PDF recap](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Insee/Insee_Download_PDF_recap.ipynb)
 
@@ -738,7 +744,7 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Maintain profile posts stats database](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Maintain_profile_posts_stats_database.ipynb)
 * [Send comments from post to gsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_comments_from_post_to_gsheet.ipynb)
 * [Send company followers to Google Sheets](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_company_followers_to_Google_Sheets.ipynb)
-* [Send connections from network to gsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_connections_from_network_to_gsheet.ipynb)
+* [Send connections to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_connections_to_Google_Sheets_spreadsheet.ipynb)
 * [Send conversation to HubSpot communication](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_conversation_to_HubSpot_communication.ipynb)
 * [Send event invitations post engagements](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_event_invitations_post_engagements.ipynb)
 * [Send followers demographic data to a Google Sheets spreadsheet](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Send_followers_demographic_data_to_a_Google_Sheets_spreadsheet.ipynb)
@@ -761,6 +767,9 @@ We are committed to sharing templates and giving shout outs to the contributors 
 * [Update metrics from company posts in Notion content calendar](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Update_metrics_from_company_posts_in_Notion_content_calendar.ipynb)
 * [Update metrics from posts in Notion content calendar](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Update_metrics_from_profile_posts_in_Notion_content_calendar.ipynb)
 * [Withdraw pending profile invitations](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LinkedIn/LinkedIn_Withdraw_pending_profile_invitations.ipynb)
+
+## LlamaIndex
+* [Integrate with Neo4j](https://github.com/jupyter-naas/awesome-notebooks/blob/master/LlamaIndex/LlamaIndex_Integrate_with_Neo4j.ipynb)
 
 ## Matplotlib
 * [Create Barchart](https://github.com/jupyter-naas/awesome-notebooks/blob/master/Matplotlib/Matplotlib_Create_Barchart.ipynb)
